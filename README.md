@@ -1,4 +1,4 @@
-# Simple-Get-Request-App-1
+# Simple-Get-Request-App-1 Assignment
 
 Live Page: https://jbello1222.github.io/Simple-Get-Request-App-1/
 
